@@ -1,0 +1,45 @@
+html {
+    height: 100%;
+}
+body {
+    background: #f1f1f1;
+    color: #919191b3;
+    box-sizing: border-box;
+}
+h1,h2,h3 {
+    font-family: Arial, sans-serif;
+}
+ul.people-list {
+    list-style-type: none;
+}
+
+.search-form {
+    padding-top: 40px;
+}
+
+.search {
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+    margin-left: 40px;
+}
+
+.column {
+    display: inline-block;
+    width: 30%;
+    padding: 0 0 6em;
+}
+.li {
+    
+    text-align: center;
+}
+.circle {
+    border-radius: 50%;
+}
+.people-list a {
+
+}
+a {
+    text-decoration: none;
+}
+
